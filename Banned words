@@ -365,50 +365,50 @@ shota con:
 chinc:
   flags:
     - warn
-    -word
+    - word
 loli:
   flags:
     - warn
-    -word
+    - word
 ngress:
   flags:
     - warn
-    -word
+    - word
 rape:
   flags:
     - warn
-    -word
+    - word
 futa:
   flags:
     - warn
-    -word
+    - word
 porn:
   flags:
     - warn
-    -word
+    - word
 vøre:
   flags:
     - warn
 vore:
   flags:
     - warn
-    -word
+    - word
 rapist:
   flags:
     - warn
-    -word
+    - word
 cunt:
   flags:
     - warn
 cucc:
   flags:
     - warn
-    -word
+    - word
 cum:
   flags:
     - warn
-    -word
+    - word
 cums:
   flags:
     - warn
-    -word
+    - word
